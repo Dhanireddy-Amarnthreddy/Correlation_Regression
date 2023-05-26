@@ -26,8 +26,7 @@ registration no:212221240012
 ```
 ![image](https://github.com/ramjan1729/Correlation_Regression/assets/103921593/9eb48cbf-8ca3-4cd9-8440-ff45fd98333e)
 
-
-# Result
-![image](https://github.com/Dhanireddy-Amarnthreddy/Correlation_Regression/assets/94165103/35214ae7-b1fb-4b73-856c-fe8d51d5ea41)
-
 # Output 
+![image](https://github.com/Dhanireddy-Amarnthreddy/Correlation_Regression/assets/94165103/35214ae7-b1fb-4b73-856c-fe8d51d5ea41)
+# RESULT :
+The Poisson distribution is fitted for the objects arrived from feeder per minute and the data is tested using Chi-square test.
